@@ -1,0 +1,3 @@
+[submodule "components/lsm303c"]
+	path = components/lsm303c
+	url = https://github.com/Bron2002/lsm303c.git
